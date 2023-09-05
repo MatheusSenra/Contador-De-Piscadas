@@ -4,7 +4,10 @@
 Este é um projeto de um contador de piscadas usando análise de imagem implementado em Python. O objetivo é detectar o número de piscadas de olhos de uma pessoa a partir de uma imagem, vídeo ou qualquer tipo de mídia visual. Isso pode ser útil em diversas aplicações, como monitoramento de fadiga, análise de atenção e até mesmo para aprimorar experiências de realidade virtual, no meu caso utilizei para confirmar se o título do Orochinho de Pisca é merecido ou não.
 
 ## Requisitos
-Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
+Antes de começar, certifique-se de ter as dependências do projeto instaladas em sua máquina executando o comando:
+
+`pip install -r requirements.txt`
+
 - Python (versão 3.6 ou superior)
 - Bibliotecas: OpenCV (cv2) e Media Pipe (mediapipe)
 
